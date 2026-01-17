@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm Devashish, an Ece student based in Shillong.
+
+I mostly work on web development(although I'm still learning) - HTML, CSS, and JavaScript.
+
+I also use Figma and Photoshop for UI design and graphic ideas.
+
 <!--
 **yuki-pookie18/yuki-pookie18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
