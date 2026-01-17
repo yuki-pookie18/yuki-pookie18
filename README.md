@@ -6,6 +6,17 @@ I mostly work on web development(although I'm still learning) - HTML, CSS, and J
 
 I also use Figma and Photoshop for UI design and graphic ideas.
 
+##Tools & Tech
+
+•code editor-VsCode
+•Figma and Photoshop
+
+##AboutMe
+
+•🍵Coffee person
+•🎵Into Music-Playing Guitar
+•👩‍💻I like building things that are simple, useful, and easy to understand
+
 <!--
 **yuki-pookie18/yuki-pookie18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
