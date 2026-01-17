@@ -6,12 +6,12 @@ I mostly work on web development(although I'm still learning) - HTML, CSS, and J
 
 I also use Figma and Photoshop for UI design and graphic ideas.
 
-##Tools & Tech
+## Tools & Tech 
 
 •code editor-VsCode
 •Figma and Photoshop
 
-##AboutMe
+## About Me
 
 •🍵Coffee person
 •🎵Into Music-Playing Guitar
