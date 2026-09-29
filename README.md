@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Devashish, an Ece student based in Shillong.
+I'm Devashish, an BCA student based in Shillong.
 
 I mostly work on web development(although I'm still learning) - HTML, CSS, and JavaScript.
 
